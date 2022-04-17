@@ -1,0 +1,4 @@
+.idea
+**/target/
+logs/
+ui-automation-time-tracker.iml
